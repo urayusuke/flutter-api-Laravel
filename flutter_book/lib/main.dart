@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_book/test/test.dart';
 import 'package:flutter_book/users/registration.dart';
 import 'users/login.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: MyApp(),
+    home: Test(),
   ));
 }
 
